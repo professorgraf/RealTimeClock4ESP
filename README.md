@@ -7,4 +7,4 @@ This project contains demonstration files to run a real time clock module with E
 Demo code written by Prof. Dr. Markus Graf
 
 For questions of how to use it please refer to the youtube video tutorial
-https://youtu.be/tIf7Idj9X64
+https://youtu.be/277Smt1FFug
